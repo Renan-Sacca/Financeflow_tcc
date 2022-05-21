@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "126076403472",
+    "firebase_url": "https://financeflow-2d98f-default-rtdb.firebaseio.com",
+    "project_id": "financeflow-2d98f",
+    "storage_bucket": "financeflow-2d98f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126076403472:android:b8dcb66b4dd02f16fc6f95",
+        "android_client_info": {
+          "package_name": "com.flutterflow.financeflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126076403472-9dh6uf2hpn73dn1crroom026v1jiv8hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.financeflow",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "126076403472-1ogjmh8tb6m0uq7iok40gk2jj97cde5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCorSc3W-U-yCNCDx1J6bGqNpPRGM1lTn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126076403472-1ogjmh8tb6m0uq7iok40gk2jj97cde5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126076403472-7g029hjt99p4tr94kriotuqen8s1n17o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126076403472:android:8696704faca27dc6fc6f95",
+        "android_client_info": {
+          "package_name": "com.flutterflow.financeflowrd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126076403472-k5o80t8j2ipprsuul8o14m8vlnphjo2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.financeflowrd",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "126076403472-1ogjmh8tb6m0uq7iok40gk2jj97cde5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCorSc3W-U-yCNCDx1J6bGqNpPRGM1lTn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126076403472-1ogjmh8tb6m0uq7iok40gk2jj97cde5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126076403472-7g029hjt99p4tr94kriotuqen8s1n17o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126076403472:android:e0ffb922ff1ec1f6fc6f95",
+        "android_client_info": {
+          "package_name": "com.flutterflow.finwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126076403472-1ogjmh8tb6m0uq7iok40gk2jj97cde5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCorSc3W-U-yCNCDx1J6bGqNpPRGM1lTn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126076403472-1ogjmh8tb6m0uq7iok40gk2jj97cde5j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "126076403472-7g029hjt99p4tr94kriotuqen8s1n17o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
